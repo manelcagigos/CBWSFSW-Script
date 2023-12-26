@@ -11,7 +11,7 @@ It's a pretty invasive way of doing this, the script goes inside your local file
 > I would recommend doing a .bat file so that you can program this script to work all the time and start automatically when you log in with your user in your computer, the script is made to work all the time, so it woun't stop if you don't stop it manually.
 
 > [!CAUTION]
-> **Use at your own responsability, I'm not reponsible of any wrong use of the script**.
+> **Use it at your own responsibility, I'm not responsible, and I'm not in charge of any wrong use of the script**.
 
 #
 
