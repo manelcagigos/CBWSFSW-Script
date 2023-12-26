@@ -10,11 +10,11 @@ It's a pretty invasive way of doing this, the script goes inside your local file
 > [!TIP]
 > I would recommend doing a .bat file so that you can program this script to start automatically when you log in with your user in your computer, the script is made to work all the time, so it won't stop if you don't stop it manually.
 
-> [!CAUTION]
-> **Use it at your own responsibility, I'm not responsible, and I'm not in charge of any wrong use of the script**.
-
 > [!NOTE]
 > In the script you need to change `<User>` for your computer user profile name, and you also need to change `<Firefox-current-profile>` for your own profile, it should be localted in the same route before where you should put the correct name, and if you need it, you can change the disk where the path is located, `C:`.
+
+> [!CAUTION]
+> **Use it at your own responsibility, I'm not responsible, and I'm not in charge of any wrong use of the script**.
 
 #
 
