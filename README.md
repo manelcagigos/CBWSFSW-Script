@@ -8,7 +8,7 @@ I also made that the script to work when the word you are searching is inside an
 It's a pretty invasive way of doing this, the script goes inside your local files and search for the database files of the browsers and execute the commands to search for the words in specific, so I would recommend using it in your own profile and devices, it's safe to use but it could slow down your computer.
 
 > [!TIP]
-> I would recommend doing a .bat file so that you can program this script to work all the time and start automatically when you log in with your user in your computer, the script is made to work all the time, so it woun't stop if you don't stop it manually.
+> I would recommend doing a .bat file so that you can program this script to work all the time and start automatically when you log in with your user in your computer, the script is made to work all the time, so it won't stop if you don't stop it manually.
 
 > [!CAUTION]
 > **Use it at your own responsibility, I'm not responsible, and I'm not in charge of any wrong use of the script**.
