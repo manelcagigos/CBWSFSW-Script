@@ -5,8 +5,8 @@ When using this script if you search for the words than you declare inside the c
 
 I also made that the script works when the word you are searching is inside an URL, for example, if you are on Instagram and search for Potato and you click on the profile of someone that has potato in his name it will appear in the URL (www.instagram.com/potato) and the script will detect that and close the browser.
 
-[!CAUTION]
-It's an invasive way of doing this, the script goes inside your local files and search for the database files of the browsers and execute the commands to search for the words in specific, use at your own responsability, I'm not reponsible of any wrong use of the script.
+>[!CAUTION]
+>It's an invasive way of doing this, the script goes inside your local files and search for the database files of the browsers and execute the commands to search for the words in specific, use at your own responsability, I'm not reponsible of any wrong use of the script.
 
 I would recommend doing a .bat file so that you can program this script to work all the time and start automatically when you log in with your user in your computer, the script is made to work all the time, so it woun't stop if you don't stop it manually.
 
