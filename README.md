@@ -1,4 +1,4 @@
-# CFWSFSW-Script 📄
+# CBWSFSW-Script 📄
 CBWSFSW stands for: `Close Browsers When Searching For Specific Words`.
 
 When using this script if you search for the words that you declare inside the code in Firefox or Chrome browsers, it would automatically close your explorer (It only works with Firefox and Chrome, but it should be easy to make it work on other browsers, like Edge, Brave or Opera for example).
