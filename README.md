@@ -18,7 +18,7 @@ It's an invasive way of doing this, the script goes inside your local files and 
 ### Bibliography
 
 Here is all the links to the webpages that I use to make this script
-[^1]
+[^1]:
 https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data
 http://kb.mozillazine.org/Profile_Manager
 https://support.mozilla.org/en-US/questions/772293
